@@ -15,7 +15,7 @@ We suggest following versions for guaranteed fully working app.
 * macOS Sierra 10.12.5
 * Xcode 8.3.2
 
-## Development & Deployment
+## Deployment
 
 Using Xcode you can compile and run the project in a simulator. If you want to deploy the app to a real iPhone, you have to sign in with an Apple Developer Account inside Xcode.
 
